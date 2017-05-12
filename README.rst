@@ -57,3 +57,7 @@ Run the application::
 
 Visit: http://localhost:6543/
 
+Run the tests::
+
+    $ bin/runtests
+
